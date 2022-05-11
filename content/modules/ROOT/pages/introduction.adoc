@@ -1,1 +1,6 @@
 = Time Series
+
+What is time series? 
+
+Models: 
+ARMA, ARIMA, GARCH
